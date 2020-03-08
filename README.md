@@ -96,5 +96,7 @@ If you´d like to support me, you can tip me on paypal.me/gazdatony
 and if you have any ideas for improvement, please tell me.
 
 Bye,
+
 **Tony**
-***(Gazda Tóny)***
+
+*(Gazda Tóny)*
