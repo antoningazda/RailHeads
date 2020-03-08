@@ -1,6 +1,9 @@
 # RailHeads
 3D printed Eurorack Rails for screwing on top of wood
 
+Please visit this project on Thingiverse first. This site is mainly for just downloading the STLs.
+*https://www.thingiverse.com/thing:4205186*
+
 ## Summary
 This is my RailHeads project. Making professional looking DIY Eurorack case builds is now simpler than ever.
 
@@ -53,13 +56,10 @@ For Heads with a lip (L2F0 or L2F2) you need to print 2x the Right Cap (C2HP2L2F
 *For example: I chose a case with L2F2 Heads. I will need to print 2x C2HP2L2F2R and 2x C2HP2L2F2R Caps.*
 
 ## Slicing
-Orientation
+### Orientation
 
-Please print in shown direction.
-Rails and Caps laying down.
+Print Rails and Caps laying down.
 Heads standing up - if needed, add a brim.
-
-
 
 ## Post-Printing
 ### Cleanup
@@ -87,8 +87,8 @@ Pay attention with Lip Caps so you match the right Cap with a head.
 Left cap means it goes on the top left and bottom right of the rails.
 Right cap means it goes on the top right and bottom left of the rails.
 
-Congrats! Enjoy your case.
-If you made it here, your a champ!
+#### Congrats! Enjoy your case.
+##### If you made it here, your a champ!
 
 Thanks a lot for making it this far. I hope your RailHead build went great.
 
@@ -96,5 +96,5 @@ If you´d like to support me, you can tip me on paypal.me/gazdatony
 and if you have any ideas for improvement, please tell me.
 
 Bye,
-**Tony
-*(Gazda Tóny)***
+**Tony**
+***(Gazda Tóny)***
