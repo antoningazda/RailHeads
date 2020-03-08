@@ -12,9 +12,12 @@ If you don´t have a 3D printer, a local school, library or a community might be
 Also I can print it for you, if you want (shipping from the Czech Republic).
 
 *If you have any questions, you can contact me on:
-*E-Mail: antonin.gazda@gmail.com
-*Facebook: http://facebook.com/gazdovic
-*Thingiverse: https://www.thingiverse.com/GazdaTony
+
+E-Mail: antonin.gazda@gmail.com
+
+Facebook: http://facebook.com/gazdovic
+
+Thingiverse: https://www.thingiverse.com/GazdaTony*
 
 Cool, enjoy!
 
