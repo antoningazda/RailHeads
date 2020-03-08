@@ -11,10 +11,10 @@ Don´t get scared of the amount of the text below. I just tried to tell you ever
 If you don´t have a 3D printer, a local school, library or a community might be nearby :)
 Also I can print it for you, if you want (shipping from the Czech Republic).
 
-* *If you have any questions, you can contact me on:
-* *E-Mail: antonin.gazda@gmail.com
-* *Facebook: http://facebook.com/gazdovic
-* *Thingiverse: https://www.thingiverse.com/GazdaTony
+*If you have any questions, you can contact me on:
+*E-Mail: antonin.gazda@gmail.com
+*Facebook: http://facebook.com/gazdovic
+*Thingiverse: https://www.thingiverse.com/GazdaTony
 
 Cool, enjoy!
 
@@ -24,20 +24,20 @@ Cool, enjoy!
 This depends on the length of the case you want.
 You will need to subtract 4HPs because of Caps.
 
-* *For example: I chose a case with 48HPs -> I will need to print 2 x 44HPs of Rails. For Rails I chose 2x R14HPA and 4x R16HPA
+*For example: I chose a case with 48HPs -> I will need to print 2 x 44HPs of Rails. For Rails I chose 2x R14HPA and 4x R16HPA
 
 ### Step 2: Choose Heads
 
 #### There are currently 4 different types of Rails.
 
-* *L0F0 - no lips, the corners are not rounded
-* *L0F2 - no lips, the corners are rounded
-* *L2F0 - 2 mm lip, the corners are not rounded
-* *L2F2 - 2mm lip, the corners are rounded (My preference).
+*L0F0 - no lips, the corners are not rounded
+*L0F2 - no lips, the corners are rounded
+*L2F0 - 2 mm lip, the corners are not rounded
+*L2F2 - 2mm lip, the corners are rounded (My preference).
 
 You need to choose the same amount of HPs as the lenght of your case.
 
-* *For example: I chose a case with 48HPs -> I will need to print 2 x 48 HPs of Heads. I chose 6 x H16HP1L2F2
+*For example: I chose a case with 48HPs -> I will need to print 2 x 48 HPs of Heads. I chose 6 x H16HP1L2F2
 
 ### Step 3: Choose Caps
 
@@ -47,7 +47,7 @@ For Heads with no lip (L0F0 or L0F2) you need to print 4 x the Cap - C2HP1L0F0 o
 
 For Heads with a lip (L2F0 or L2F2) you need to print 2x the Right Cap (C2HP2L2F0R or C2HP2L2F2R) and 2x the Left Cap (C2HP2L2F0L or C2HP2L2F2L).
 
-* *For example: I chose a case with L2F2 Heads. I will need to print 2x C2HP2L2F2R and 2x C2HP2L2F2R Caps.
+*For example: I chose a case with L2F2 Heads. I will need to print 2x C2HP2L2F2R and 2x C2HP2L2F2R Caps.
 
 ## Slicing
 Orientation
@@ -93,4 +93,4 @@ If you´d like to support me, you can tip me on paypal.me/gazdatony
 and if you have any ideas for improvement, please tell me.
 
 Bye,
-**Tony (Gazda Tóny)
+**Tony *(Gazda Tóny)
