@@ -1,7 +1,7 @@
 # RailHeads
 3D printed Eurorack Rails for screwing on top of wood
 
-Summary
+##Summary
 This is my RailHeads project. Making professional looking DIY Eurorack case builds is now simpler than ever.
 
 If you have a wood case with no rails or you want to build a case - this is probably the perfect solution for you!
@@ -11,14 +11,14 @@ Don´t get scared of the amount of the text below. I just tried to tell you ever
 If you don´t have a 3D printer, a local school, library or a community might be nearby :)
 Also I can print it for you, if you want (shipping from the Czech Republic).
 
-If you have any questions, you can contact me on:
-E-Mail: antonin.gazda@gmail.com
-Facebook: http://facebook.com/gazdovic
-or here on Thingiverse
+* *If you have any questions, you can contact me on:
+* *E-Mail: antonin.gazda@gmail.com
+* *Facebook: http://facebook.com/gazdovic
+* *Thingiverse: https://www.thingiverse.com/GazdaTony
 
 Cool, enjoy!
 
-Preparation
+##Preparation
 Step 1: Choose Rails
 
 This depends on the length of the case you want.
